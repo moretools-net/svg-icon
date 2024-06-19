@@ -30,7 +30,7 @@ Some icons support customization of it's color (fill and/or stroke)
 ## Resources
 
 - [Official Website](https://svg-icon.com)
-- [GitHub Repository](https://github.com/takien/svg-icon)
+- [GitHub Repository](https://github.com/moretools-net/svg-icon)
 
 ## License
 
