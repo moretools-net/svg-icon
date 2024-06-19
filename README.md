@@ -14,7 +14,7 @@ To load a Dashicon named `admin-home`, simply paste the following code into your
 Make sure to include the SVG Icon Loader JavaScript file in your HTML page before using the snippet. You can do so by adding the following line in the `<head>` section of your HTML:
 
 ```html
-<script type="module" src="https://cdn.jsdelivr.net/gh/takien/svg-icon/src/svg-icon.min.js"></script>
+<script type="module" src="https://cdn.jsdelivr.net/gh/moretools-net/svg-icon/src/svg-icon.min.js"></script>
 ```
 
 ## Getting Started
