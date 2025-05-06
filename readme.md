@@ -29,7 +29,7 @@ Some icons support customization of it's color (fill and/or stroke)
 
 ## Resources
 
-- [Official Website](https://svg-icon.com)
+- [Official Website](https://svg-icon.moretools.net)
 - [GitHub Repository](https://github.com/moretools-net/svg-icon)
 
 ## License
